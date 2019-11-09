@@ -1,0 +1,3 @@
+# animetosho-go
+
+AnimeTosho scraper.
