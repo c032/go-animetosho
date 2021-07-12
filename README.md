@@ -1,3 +1,3 @@
-# animetosho-go
+# go-animetosho
 
 AnimeTosho scraper.

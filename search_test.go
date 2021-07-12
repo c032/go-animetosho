@@ -3,7 +3,7 @@ package animetosho_test
 import (
 	"testing"
 
-	"github.com/c032/animetosho-go"
+	"github.com/c032/go-animetosho"
 )
 
 func TestSearch(t *testing.T) {

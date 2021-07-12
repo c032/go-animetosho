@@ -1,5 +1,5 @@
-module github.com/c032/animetosho-go
+module github.com/c032/go-animetosho
 
-go 1.12
+go 1.16
 
-require github.com/PuerkitoBio/goquery v1.5.0
+require github.com/PuerkitoBio/goquery v1.7.1
